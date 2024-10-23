@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Artırılmış Gerçeklik projesi.
 =======
 # Welcome to your Expo app 👋
