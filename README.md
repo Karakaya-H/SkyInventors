@@ -9,6 +9,11 @@ SkyInventors, kullanıcıların artırılmış gerçeklik yardımıyla bilim ins
 
 ---
 
+## 🧪 Proje Konusu
+**Çığır açan buluşlar**: İnsanlık tarihine yön veren bilim insanlarının ve onların keşiflerinin etkileşimli bir şekilde tanıtılması.
+
+---
+
 ## 🚀 Özellikler
 - 📸 **AR Kamera Desteği:** Belirli resimler veya şekiller tarandığında bilim insanlarına ait bilgiler görüntülenir.
 - 🧠 **Eğitim Odaklı:** Bilim insanlarının hayatları, başarıları ve etkileyici icatları hakkında bilgi sağlar.
@@ -64,7 +69,6 @@ SkyInventors, kullanıcıların artırılmış gerçeklik yardımıyla bilim ins
 ## 📸 Ekran Görüntüleri
 ![a](https://github.com/user-attachments/assets/6cbdaf19-54f2-49fa-aca3-2708fbb7a564)
 ![b](https://github.com/user-attachments/assets/5f09552d-d581-4b31-9fec-65840a766e16)
-
 
 Bu iki görselde, "Nasıl Kullanılır?" isimli bölümde yapılan 5 görselden 2 tanesinin üzerine tutulan kamera sayesinde yukarıdaki iki bilim insanının fotoğrafı ve konum olan "Büyük Buluşlar"da yazılan bilgilerine ulaşılabilmektedir.
 
