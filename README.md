@@ -27,11 +27,11 @@ SkyInventors, kullanıcıların artırılmış gerçeklik yardımıyla bilim ins
 ## 📱 Nasıl Kullanılır?
 1. Uygulamayı Android cihazınıza yükleyin. (APK dosyasını indirip kurun.)
 2. Uygulamayı başlatın ve kamerayı belirli resimlerin üzerine getirin.
-![one](https://github.com/user-attachments/assets/2ba9a45e-61aa-4229-bf21-6dc0a9ba8f0d)
-![two](https://github.com/user-attachments/assets/6a0ed732-53b7-4ef3-b891-845e2834799e)
-![three](https://github.com/user-attachments/assets/3ed5ab61-1b85-4f98-80a2-96532050b452)
-![four](https://github.com/user-attachments/assets/729f9735-b575-4b56-8e6a-44cc3e9065e6)
-![five](https://github.com/user-attachments/assets/476c956d-d868-45fd-adad-4a655fca1925)
+   ![one](https://github.com/user-attachments/assets/2ba9a45e-61aa-4229-bf21-6dc0a9ba8f0d)
+   ![two](https://github.com/user-attachments/assets/6a0ed732-53b7-4ef3-b891-845e2834799e)
+   ![three](https://github.com/user-attachments/assets/3ed5ab61-1b85-4f98-80a2-96532050b452)
+   ![four](https://github.com/user-attachments/assets/729f9735-b575-4b56-8e6a-44cc3e9065e6)
+   ![five](https://github.com/user-attachments/assets/476c956d-d868-45fd-adad-4a655fca1925)
 
 3. Bilim insanlarının görselleri tanındığında, ekranınızda bilgi kartları görünecektir.
 
@@ -66,6 +66,7 @@ SkyInventors, kullanıcıların artırılmış gerçeklik yardımıyla bilim ins
 ![a](https://github.com/user-attachments/assets/0ed9fc4e-9910-4427-8baf-56eea9d50d02)
 
 Bu iki görselde, "Nasıl Kullanılır?" isimli bölümde yapılan 5 görselden 2 tanesinin üzerine tutulan kamera sayesinde yukarıdaki iki bilim insanının fotoğrafı ve konum olan "Büyük Buluşlar"da yazılan bilgilerine ulaşılabilmektedir.
+
 ---
 
 ## 👨‍💻 Katkıda Bulunma
@@ -85,3 +86,4 @@ Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) kapsamında lisansl
 Herhangi bir sorunuz veya öneriniz olursa, aşağıdaki yollarla iletişime geçebilirsiniz:
 - **E-posta:** hasan.karakaya.formal@gmail.com
 - **GitHub:** [Karakaya-H](https://github.com/Karakaya-H)
+- **Trello:** [Çalışma Listesi](https://trello.com/b/B4MR39js/work-list)
