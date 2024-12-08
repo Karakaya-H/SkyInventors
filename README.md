@@ -74,6 +74,12 @@ Bu iki görselde, "Nasıl Kullanılır?" isimli bölümde yapılan 5 görselden 
 
 ---
 
+## 📥 APK Dosyası
+- Uygulamanın son sürüm APK dosyasını indirmek için [Releases](https://github.com/Karakaya-H/SkyInventors/releases) sayfasına gidin.
+- **Releases** sekmesi altında, en güncel APK dosyasını bulabilirsiniz.
+
+---
+
 ## 👨‍💻 Katkıda Bulunma
 SkyInventors açık kaynaklı bir projedir. Siz de katkıda bulunmak isterseniz:
 1. Bu projeyi forklayın.
