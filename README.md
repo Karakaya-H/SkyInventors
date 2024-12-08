@@ -80,6 +80,11 @@ Bu iki görselde, "Nasıl Kullanılır?" isimli bölümde yapılan 5 görselden 
 
 ---
 
+## 🌐 Projenin Web Sürümü
+SkyInventors'ın tanıtım sitesi için [buraya tıklayın](https://sky-inventors.vercel.app/).
+
+---
+
 ## 👨‍💻 Katkıda Bulunma
 SkyInventors açık kaynaklı bir projedir. Siz de katkıda bulunmak isterseniz:
 1. Bu projeyi forklayın.
