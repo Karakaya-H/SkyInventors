@@ -62,8 +62,11 @@ SkyInventors, kullanıcıların artırılmış gerçeklik yardımıyla bilim ins
 ---
 
 ## 📸 Ekran Görüntüleri
-*(Ekran görüntülerini buraya ekleyebilirsiniz.)*
+![n](https://github.com/user-attachments/assets/7f986382-c51e-4867-98f7-ca612748e2eb)
 
+![m](https://github.com/user-attachments/assets/95f24d09-a7ba-4fe8-8695-12ddc34f9b47)
+
+Bu iki görselde, "Nasıl Kullanılır?" isimli bölümde yapılan 5 görselden 2 tanesinin üzerine tutulan kamera sayesinde yukarıdaki iki bilim insanının fotoğrafı ve konum olan "Büyük Buluşlar"da yazılan bilgilerine ulaşılabilmektedir.
 ---
 
 ## 👨‍💻 Katkıda Bulunma
